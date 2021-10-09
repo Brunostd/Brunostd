@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Bruno.std
-- 👀 I’m interested in program mobile
-- 🌱 I’m currently learning more about android studio
-- 💞️ I’m looking to collaborate on team to support me in some problems
-- 📫 How to reach me batioe.std@gmail.com and linkedin: https://www.linkedin.com/in/bruno-brito-53b621182
+- 👋 Olá, meu nome é Bruno Brito
+- 👀 Eu estou interessado em trabalhar como desenvolvedor android
+- 🌱 Atualmente, estou aprendendo mais sobre o Android Studio e suas ferramentas
 
 <div align="center">
   <a href="https://github.com/Brunostd">
