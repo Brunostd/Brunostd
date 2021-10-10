@@ -3,6 +3,7 @@
 - 🌱 Atualmente, estou aprendendo mais sobre o Android Studio e suas ferramentas
 
 <div align="center">
+  <h1>Utils<p>📒</p></h1>
   <a href="https://github.com/brunostd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunostd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunostd&layout=compact&langs_count=7&theme=dark"/>
@@ -11,6 +12,7 @@
   ##
   
 <div align="center" style="display: inline_block"><br>
+  <h1>Skills<p>🤓</p></h1>
   <img align="center" alt="Bruno-Android" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="center" alt="Bruno-Java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Bruno-Kotlin" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
