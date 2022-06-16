@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Bruno&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=BB2538&size=22&center=true&center=true&width=300&lines=¡I'm+Camilo+Di+Nardo!"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=->)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&duration=6000&lines=Hello+my+name+is+Bruno;I'm+specializing+==+Android+Development;Experience+==+2+years;Most+used+languages+Kotlin+and+Java;If+you+liked+and+followme+and+like+my+work;Thanks+:D)](https://git.io/typing-svg)
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brunostd&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="timashan" /></div>
 
